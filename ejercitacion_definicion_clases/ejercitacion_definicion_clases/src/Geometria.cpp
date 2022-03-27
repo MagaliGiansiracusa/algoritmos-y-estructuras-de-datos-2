@@ -71,34 +71,7 @@ ostream& operator<<(ostream& os, Rectangulo r) {
 
 // Ejercicio 6
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MagaliGiansiracusa 
-IsaacEdgarCamacho
-/
-AyED2
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-AyED2/Taller/02/src/Geometria.cpp
 
-isaac Camacho agrego hasta el ejercicio 9
-Latest commit 93873b6 on 22 Dec 2021
- History
- 0 contributors
-Executable File  136 lines (105 sloc)  2.28 KB
-   
 #include <iostream>
 
 using namespace std;
@@ -235,17 +208,4 @@ ostream& operator<<(ostream& os, Circulo r) {
     return os;
 }
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
 
