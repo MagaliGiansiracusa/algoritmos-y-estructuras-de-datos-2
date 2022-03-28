@@ -16,12 +16,8 @@ bool pertenece(vector<int> s, int n){
 vector<int> quitar_repetidos(vector<int> s) {
     for(int i =0, i <s.size(), i++){
 
-        }
-
+        }return vector<int>();
 }
-    return vector<int>();
-}
-
 
 // Ejercicio 2
 vector<int> quitar_repetidos_v2(vector<int> s) {
@@ -36,7 +32,6 @@ vector<int> quitar_repetidos_v2(vector<int> s) {
 bool mismos_elementos(vector<int> a, vector<int> b) {
     for (int i = 0; i <b.size() ; ++i) {
         if(pertenece(b,b[i]) && pertenece(a,b[i])){
-
         }
     }
     return true;
@@ -61,11 +56,11 @@ bool mismos_elementos_v2(vector<int> a, vector<int> b) {
 
 // Ejercicio 5
 map<int, int> contar_apariciones(vector<int> s) {
-    int cont =0;
+    int cont = 0;
     for (int i = 0; i < s.size(); ++i) {
         if (pertenece(s[i],s){
-
-        })
+            cont ++;
+        }
 
     }
     return map<int, int>();
@@ -119,13 +114,12 @@ vector<char> traducir(vector<pair<char, char>> tr, vector<char> str) {
             j++
         }
                 result.push_back(tr[j].second)
-            }
-        }
-
+            }    return result;
     }
 
-    return result;
-}
+
+
+
 
 // Ejercicio 10
 bool integrantes_repetidos(vector<Mail> s) {
