@@ -72,8 +72,6 @@ ostream& operator<<(ostream& os, Rectangulo r) {
 // Ejercicio 6
 
 
-#include <iostream>
-
 using namespace std;
 
 using uint = unsigned int;
