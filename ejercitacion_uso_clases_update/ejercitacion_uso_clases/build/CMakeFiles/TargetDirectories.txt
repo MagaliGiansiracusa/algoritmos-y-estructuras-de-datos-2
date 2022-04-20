@@ -1,0 +1,6 @@
+/mnt/c/Users/gians/OneDrive/Documentos/GitHub/algo22022/ejercitacion_uso_clases_update/ejercitacion_uso_clases/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/gians/OneDrive/Documentos/GitHub/algo22022/ejercitacion_uso_clases_update/ejercitacion_uso_clases/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gians/OneDrive/Documentos/GitHub/algo22022/ejercitacion_uso_clases_update/ejercitacion_uso_clases/build/CMakeFiles/gtest_main.dir
+/mnt/c/Users/gians/OneDrive/Documentos/GitHub/algo22022/ejercitacion_uso_clases_update/ejercitacion_uso_clases/build/CMakeFiles/gtest.dir
+/mnt/c/Users/gians/OneDrive/Documentos/GitHub/algo22022/ejercitacion_uso_clases_update/ejercitacion_uso_clases/build/CMakeFiles/tests_ejercitacion.dir
+/mnt/c/Users/gians/OneDrive/Documentos/GitHub/algo22022/ejercitacion_uso_clases_update/ejercitacion_uso_clases/build/CMakeFiles/tests_algobot.dir
